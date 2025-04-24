@@ -1,4 +1,4 @@
-## Hi there, I'm btch 👋
+## Hi there, I'm BOTCAHX 👋
 
 Welcome to my GitHub profile!
 
