@@ -1,12 +1,24 @@
-## Hi there 👋
+## Hi there, I'm btch 👋
 
-<!--
+Welcome to my GitHub profile!
 
-**Here are some ideas to get you started:**
+### About Me
+- Passionate about open-source, automation, and building cool things on the web.
+- Always experimenting with new tech and frameworks.
+- Based in Indonesia, coding with kopi by my side.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Tech Stack
+- **Languages:** JavaScript, Python, PHP
+- **Frameworks:** Express.js, React, Laravel
+- **Databases:** PostgreSQL, MongoDB, MySQL
+
+### Projects
+Check out my pinned repositories below — tools, bots, and web apps I use and maintain.
+
+### Let's Connect
+Feel free to fork, star, or open a pull request if something interests you.
+Got a question? Just open an issue or reach out!
+
+---
+
+_“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
