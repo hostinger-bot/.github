@@ -5,11 +5,11 @@ Welcome to my GitHub profile!
 ### About Me
 - Passionate about open-source, automation, and building cool things on the web.
 - Always experimenting with new tech and frameworks.
-- Based in Indonesia, coding with kopi by my side.
+- Based in Indonesia, coding with coffee by my side.
 
 ### Tech Stack
-- **Languages:** JavaScript, Python, PHP
-- **Frameworks:** Express.js, React, Laravel
+- **Languages:** JavaScript, TypeScript, Python, PHP
+- **Frameworks:** Express.js, React, Vue.js, Nuxt.js, Remix, Vite
 - **Databases:** PostgreSQL, MongoDB, MySQL
 
 ### Projects
