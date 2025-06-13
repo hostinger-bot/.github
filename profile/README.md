@@ -9,7 +9,7 @@ Welcome to my GitHub profile!
 
 ### Tech Stack
 - **Languages:** JavaScript, TypeScript, Python, PHP
-- **Frameworks:** Express.js, React, Vue.js, Nuxt.js, Remix, Vite
+- **Frameworks:** Express.js, React, Vue.js, Nuxt.js, Next.js Remix, Vite
 - **Databases:** PostgreSQL, MongoDB, MySQL
 
 ### Projects
